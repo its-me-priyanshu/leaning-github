@@ -1,0 +1,7 @@
+version : "3.3"
+services:
+  web:
+    build :
+      context .
+    port :
+    8000:80
