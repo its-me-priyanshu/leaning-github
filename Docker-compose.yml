@@ -1,7 +1,7 @@
 version : "3.3"
 services:
   web:
-    build :
+    image: "8982423160/nginx-app:latest"
       context .
     ports :
         - "8000:80"
