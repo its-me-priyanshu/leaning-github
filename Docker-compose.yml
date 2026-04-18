@@ -3,5 +3,5 @@ services:
   web:
     build :
       context .
-    port :
-    8000:80
+    ports :
+        - "8000:80"
