@@ -15,6 +15,9 @@ RUN mkdir -p /home/nginx
 # Set working directory
 WORKDIR /home/nginx
 
+# Copy Index.html file
+COPY index.html /var/www/html/
+
 # Expose port 80
 EXPOSE 80
 
