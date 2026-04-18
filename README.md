@@ -10,3 +10,5 @@ here i created a docker file which help me to create a ngninx in my server or co
 Here i added a index.html file it will serve my static web page on ngninx in docker container
 # I added my index.html file 
 I added my index.html file to my Dockerfile now it will serve my custom web page
+# Now i have added a Docker-compose.yml file
+I added a file called Dockr-compose.yml file 
