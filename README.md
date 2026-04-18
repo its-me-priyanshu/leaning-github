@@ -8,3 +8,5 @@ Here i have created a new file called Myname.sh
 here i created a docker file which help me to create a ngninx in my server or container
 # Here i have update my repo 
 Here i added a index.html file it will serve my static web page on ngninx in docker container
+# I added my index.html file 
+I added my index.html file to my Dockerfile now it will serve my custom web page
